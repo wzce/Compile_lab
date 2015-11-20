@@ -1,0 +1,12 @@
+first集合：
+first(S)={ ( , i}
+first(E)={ + , #}
+first(T)={ ( , i}
+first(R)={ * , #}
+first(F)={ ( , i}
+follow集合：
+fl(S)={ #,)}
+fl(E)={ #,)}
+fl(T)={ +,#,)}
+fl(R)={ +,#,)}
+fl(F)={ *,+,#,)}

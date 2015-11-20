@@ -1,0 +1,16 @@
+char c;
+int j=1;
+for(int i=0;i<10 && j!=5;i++){
+	j=j-1.123;
+	double x=2.6;
+	int a[10]
+	x++;
+	if(x>=6){
+		break;
+	}
+}
+
+int lenth=10;
+while(length==0){
+	length--;
+}

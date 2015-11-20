@@ -1,0 +1,6 @@
+		+		$		*		(		)		i		
+S								→TE				→TE		
+E		→+TE		→#						→#				
+T								→FR				→FR		
+R		→#		→#		→*FR				→#				
+F								→(S)				→i		
